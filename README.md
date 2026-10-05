@@ -7,7 +7,7 @@
 ![GitHub open issues](https://img.shields.io/github/issues/<seu-usuario>/<nome-do-repo>?style=for-the-badge)
 ![GitHub open pull requests](https://img.shields.io/github/issues-pr/<seu-usuario>/<nome-do-repo>?style=for-the-badge)
 
-<img src="link-da-sua-imagem-ou-gif.png" alt="Exemplo do container em execução">
+<img src="demo.jpg" alt="Exemplo do container em execução">
 
 > Um ambiente leve e containerizado baseado em Ubuntu 24.04 e Python 3, ideal para testes rápidos, execução de scripts e estudos com Docker.
 
